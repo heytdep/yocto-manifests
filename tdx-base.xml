@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="flashbots"  fetch="https://github.com/flashbots"/>
+  <remote name="konvera"  fetch="https://github.com/konvera"/>
 
   <default sync-j="4"/>
 
